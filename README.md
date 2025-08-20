@@ -21,11 +21,11 @@
 ---
 
 ## 📌 Projects
-🔹 [Project 1](#) – Short description of your project  
-🔹 [Project 2](#) – Short description of your project  
-🔹 [Project 3](#) – Short description of your project  
+🔹 [Project 1](bmi-calu.streamlit.app/) – A project With Streamlit
+🔹 [Project 2](https://password-generator-by-hamza.streamlit.app/) – A project with Streamlit
+🔹 [Project 3](https://hamza-site.streamlit.app/) – A project with Streamlit 
 
-*(Add links to your repos so people can explore your work)*  
+ 
 
 ---
 
