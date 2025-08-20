@@ -1,4 +1,11 @@
-# Hi there, I'm Hamza 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0EF7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Hamza;Frontend+%26+AI+Developer;Python+|+React+|+Tailwind+CSS;Exploring+Agentic+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
+
 
 ## 🚀 About Me
 - 💻 Developer with a focus on **Python, React.js, and Tailwind CSS**
