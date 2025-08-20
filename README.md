@@ -36,10 +36,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/
-muhammad-hamza-050065317
-)  
-- 📷 [Instagram]()  
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-hamza-050065317)
+- 📷 [Instagram](https://www.instagram.com/ham_za.o6/)  
 - 🌐 [Portfolio Website](#)  
 
 ---
