@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0EF7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Hamza;Frontend+%26+AI+Developer;Python+|+React+|+Tailwind+CSS;Exploring+Agentic+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EF7F7&height=200&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-</p>
+
 
 
 ## 🚀 About Me
-- 💻 Developer with a focus on **Python, React.js, and Tailwind CSS**
+- 💻 Developer with a focus on **Python,**
 - 🧠 Currently exploring **Agentic AI & Intelligent Systems**
 - 🌱 Always learning and building modern, scalable apps
 - 🌍 Based in **Karachi, Pakistan**
