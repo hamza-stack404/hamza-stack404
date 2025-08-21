@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
 </p>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg
+
 
 
 ## 📌 Projects
