@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   
   <!-- Agentic AI (OpenAI) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="Agentic AI" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg' alt="Agentic AI" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
@@ -29,8 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
 </p>
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg
 
 
 ## 📌 Projects
