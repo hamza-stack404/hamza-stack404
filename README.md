@@ -5,10 +5,7 @@
   </h1>
 
   <!-- Cyberpunk-style Stats -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hamza-stack404&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=4" alt="GitHub Trophies" />
-  </div>
-
+  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hamza-stack404&color=00ffec&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/hamza-stack404?label=FOLLOWERS&style=for-the-badge&color=ff00c8" alt="GitHub followers" />
@@ -39,8 +36,7 @@
 <div align="center">
   <!-- Cutting-edge tech badges -->
   <img src="https://img.shields.io/badge/Built%20with-Neural%20Networks-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Live%20on-Mars-orange?style=for-the-badge&logo=spacex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coding%20Since-2010-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-success?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
@@ -58,7 +54,6 @@ I'm a forward-thinking **Python Developer** and **AI/ML Enthusiast** dedicated t
 - 🌟 Innovative solutions addressing global challenges
 
 ### 💬 Let's Discuss
-- 📚 Best practices in AI/ML development and deployment
 - 🚀 Modern Python frameworks and ecosystem innovations
 - 🔮 Future of artificial intelligence and human-computer interaction
 
@@ -78,7 +73,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,typescript,go,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" />
 </div>
 
 <div align="center">
@@ -86,7 +81,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,tensorflow,pytorch,spring,express,nextjs,angular,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,nextjs,&theme=dark" />
 </div>
 
 <div align="center">
@@ -94,7 +89,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,githubactions,terraform,jenkins&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions&theme=dark" />
 </div>
 
 <div align="center">
@@ -102,7 +97,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elastic,grafana,vscode,vim,bash,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,vscode&theme=dark" />
 </div>
 
 <div align="center">
@@ -110,24 +105,11 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai,llm,openai,langchain,streamlit,jupyter,anaconda,unity,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ai,llm,openai,streamlit,jupyter&theme=dark" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-stack404&langs_count=10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza-stack404&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&rank=S,AAA,AA,A,B,C,D,E,F&row=2&column=3" />
-</div>
-
-<div align="center">
-  <h3>⚡ Coding Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamza-stack404&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -143,25 +125,16 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-stack404&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
 
-<div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamza-stack404&repo=bmi-calculator-streamlit&theme=tokyonight&border_radius=15&show_owner=true)](https://github.com/hamza-stack404/bmi-calculator-streamlit)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamza-stack404&repo=password-generator-streamlit&theme=tokyonight&border_radius=15&show_owner=true)](https://github.com/hamza-stack404/password-generator-streamlit)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamza-stack404&repo=portfolio-site-streamlit&theme=tokyonight&border_radius=15&show_owner=true)](https://github.com/hamza-stack404/portfolio-site-streamlit)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamza-stack404&repo=ai-project-template&theme=tokyonight&border_radius=15&show_owner=true)](https://github.com/hamza-stack404/ai-project-template)
-
-</div>
-
 ### 🌟 Signature Projects
 
 <div align="center">
 
 | 🚀 Project | 🧠 Intelligence | ⚡ Performance | 🔗 Access |
 |------------|----------------|---------------|-----------|
-| **NeuroFlow AI** | Advanced ML algorithms with neural network architectures | Optimized for speed & scalability | [🧠 Repo](https://github.com/hamza-stack404/neuroflow-ai) [🚀 Live](#) |
-| **QuantumVault Security** | AI-powered threat detection & prevention | Enterprise-grade encryption | [🔐 Repo](https://github.com/hamza-stack404/quantumvault) [🔗 Demo](#) |
+| **Full-stack-web-application** |  | Optimized for speed & scalability | [🧠 Repo](https://github.com/hamza-stack404/Full-stack-web-application) [🚀 Live](https://hamza-full-stack-web.vercel.app/) |
+| **Physical-AI-Humanoid-Robotics-** | AI-powered threat detection & prevention | Enterprise-grade encryption | [🔐 Repo](https://github.com/hamza-stack404/Physical-AI-Humanoid-Robotics-) [🔗 Demo](#) |
 | **EcoPredict Analytics** | Environmental data modeling & forecasting | Real-time processing capabilities | [📊 Repo](https://github.com/hamza-stack404/ecopredict) [📈 Dashboard](#) |
-| **Synapse Cloud** | Microservices orchestration & auto-scaling | Fault-tolerant distributed systems | [☁️ Repo](https://github.com/hamza-stack404/synapse-cloud) [⚡ Deploy](#) |
+| **Streamlit-Webpage** | Microservices orchestration & auto-scaling | Fault-tolerant distributed systems | [☁️ Repo](https://github.com/hamza-stack404/Streamlit-Webpage) [⚡ Deploy](#) |
 
 </div>
 
@@ -178,21 +151,12 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Summary" width="80%" />
-</div>
-
 ### 🏆 Achievements & Certifications
 
 <div align="center">
   <h3>Accolades & Recognition</h3>
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=hamza-stack404&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00ffec&fire=00ffec&currStreakNum=00ffec&sideNums=00ffec)](https://git.io/streak-stats)
-
-  <br/>
-
-  <!-- Achievement Badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza-stack404&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&rank=S,AAA,AA,A,B,C,D,E,F&row=1&column=6" alt="GitHub Trophies" />
 
   <br/>
 
@@ -206,11 +170,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 
 <div align="center">
 
-  [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,prs)](https://github.com/hamza-stack404)
-
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamza-stack404&theme=tokyo-night&hide_border=true&area=true&radius=10)](https://github.com/hamza-stack404)
-
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&card_width=400)
 
 </div>
 
@@ -227,8 +187,6 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
   <h3>My Journey Through Technology</h3>
 
   <!-- Timeline -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="80%" />
-
   <br/>
 
   <!-- Year Progress -->
@@ -242,10 +200,10 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 <div align="center">
   <h3>Join my network and explore possibilities</h3>
 
-  <a href="mailto:hamza.stack404@gmail.com">
+  <a href="hamzasajjad2032009@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/hamza-stack404">
+  <a href="https://www.linkedin.com/in/muhammad-hamza-050065317/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/hamza_stack404">
@@ -254,12 +212,7 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
   <a href="https://discord.gg/hamza-community">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://dev.to/hamzastack404">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://stackoverflow.com/users/hamza-stack404">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+
 </div>
 
 <div align="center">
@@ -268,7 +221,6 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/Full_Time-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Full Time" />
     <img src="https://img.shields.io/badge/Freelance-34A853?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance" />
     <img src="https://img.shields.io/badge/Advisory-4285F4?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Advisory" />
     <img src="https://img.shields.io/badge/Speaker-FF9900?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Speaking Engagements" />
@@ -288,14 +240,12 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
   <h3>Vision for the Next Decade</h3>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-stack404&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="40%" />
   </div>
 
   <br/>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-stack404&langs_count=5&theme=tokyonight&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="40%" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-stack404&theme=tokyo-night&hide_border=true&area=true&radius=10&height=200" alt="Activity Graph" width="40%" />
   </div>
 
@@ -337,7 +287,6 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
 
   <!-- GitHub Stats Cards -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" style="margin-right:10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-stack404&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
   </div>
 
@@ -390,10 +339,6 @@ I enjoy transforming complex algorithmic challenges into elegant, high-performan
   <p><em>Let's build the future, one line of code at a time. 💻✨</em></p>
 
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hamza-stack404.hamza-stack404)
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hamza-stack404/hamza-stack404/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="80%" />
 </div>
 
 <!-- Footer -->
